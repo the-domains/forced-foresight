@@ -1,0 +1,14 @@
+layout_spectrum: 0.14509073086082935
+typography_spectrum: 0.036720644449815154
+color:
+  brandStrength: 0.9689460678491741
+  lightness: 0.8739861440844834
+  saturation: 0.0838009302970022
+  rhythmicContrast: 0.9022280385252088
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Forced Foresight
