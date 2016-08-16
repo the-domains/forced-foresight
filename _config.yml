@@ -1,16 +1,16 @@
-typography_spectrum: 0.036720644449815154
+typography_spectrum: 0.1791268279775977
 color:
-  brandStrength: 0.9689460678491741
-  lightness: 0.8739861440844834
-  saturation: 0.0838009302970022
-  rhythmicContrast: 0.9022280385252088
+  brandStrength: 0.6837759718764573
+  lightness: 0.27086451021023095
+  saturation: 0.7716504021082073
+  rhythmicContrast: 0.6889610888902098
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-layout_spectrum: 0.14509073086082935
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+layout_spectrum: 0.3541502500884235
 author:
   name: FMH
   email: felipejmh@gmail.com
