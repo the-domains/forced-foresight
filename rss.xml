@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Forced Foresight]]></title>
-        <description><![CDATA[Forced Foresight]]></description>
+        <title><![CDATA[The future is amazing!]]></title>
+        <description><![CDATA[The future is amazing!]]></description>
         <link>https://thegrid.ai/forced-foresight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Aug 2016 18:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 12:31:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/forced-foresight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IBM's New Artificial Neurons a Big Step Toward Powerful Brain-Like Computers]]></title>
+            <description><![CDATA[<article><h1>IBM's New Artificial Neurons a Big Step Toward Powerful Brain-Like Computers</h1><p>13,578 1 Thanks to a sleek new computer chip developed by IBM, we are one step closer to making computers work like the brain. The neuromorphic chip is made from a phase-change material commonly found in rewritable optical discs (confused? more on this later).</p><img src="http://singularityhub.com/wp-content/uploads/2016/08/ibm-artificial-neuron-chip-2-1.jpg"></article>]]></description>
+            <link>http://singularityhub.com/2016/08/14/ibms-new-artificial-neurons-a-big-step-toward-brain-like-computers/?utm_content=buffer9281f&amp;utm_medium=social&amp;utm_source=facebook-hub&amp;utm_campaign=buffer</link>
+            <guid isPermaLink="false">abf6b3ee-7f71-45bb-b89c-fe0b366e06cd</guid>
+            <pubDate>Wed, 17 Aug 2016 12:30:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Light Phone: Designed for Disconnecting]]></title>
             <description><![CDATA[<article><h1>The Light Phone: Designed for Disconnecting</h1><p>Phone addiction is real-as evidenced by a quick glance down the street, in the subway, even at the dinner table-and is one of the reasons why Apple developed a watch: so we would look at our screens less and be present more. For some, however, a smartwatch isn't enough-it still leaves room for fiddling and distraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83d0f5ce299ad3d7f079d449896c88dcc2ec48b8.jpg"></article>]]></description>
