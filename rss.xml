@@ -4,8 +4,15 @@
         <description><![CDATA[The future is amazing!]]></description>
         <link>https://thegrid.ai/forced-foresight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 11:57:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 16:18:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/forced-foresight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Can An Algorithm Diagnose Better Than A Doctor? - The Medical Futurist]]></title>
+            <description><![CDATA[<article><h1>Can An Algorithm Diagnose Better Than A Doctor? - The Medical Futurist</h1><p>Will artificial intelligence solve doctor shortages? Will it be able to replace the art of making a correct diagnosis? Not anytime soon. Many times after my talks, people ask me whether algorithms could theoretically be better at making a diagnosis than doctors. With my doctor's cap on, I must defend the art of medicine.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e203fef8dfe195f59f0cfbe7b32cdd9d/noop.jpg?input=http%3A%2F%2Fmedicalfuturist.com%2Fwp-content%2Fuploads%2F2016%2F05%2Fa-machine-is-about-to-do-to-cancer-treatment-what-deep-blue-did-to-garry-kasparov-in-chess.jpg"></article>]]></description>
+            <link>http://medicalfuturist.com/can-an-algorithm-diagnose-better-than-a-doctor/</link>
+            <guid isPermaLink="false">1572e066-2d39-4df2-91fd-9c879f531830</guid>
+            <pubDate>Thu, 18 Aug 2016 16:18:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Automakers are racing to get fully self-driving cars on our roads by 2021]]></title>
             <description><![CDATA[<article><h1>Automakers are racing to get fully self-driving cars on our roads by 2021</h1><p>Mark your calendars: automakers plan to put truly autonomous cars on our roads in the next five years. Ford has announced that it will manufacture a fleet of fully automated driverless cars, without steering wheels or pedals, and put them into commercial operation by 2021.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ded67b8591e343dd34c870b8a43c3225/noop.jpg?input=http%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Froads.jpg%3Fcx%3D0%26cy%3D120%26cw%3D2046%26ch%3D1151%26sw%3D1200"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">f69b15b0-2535-4abf-bdb2-888ec1e846b8</guid>
-            <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
-            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
-            <guid isPermaLink="false">57b5014c-4c8b-4cd6-904b-0c32d0871c09</guid>
             <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
         </item>
     </channel>
