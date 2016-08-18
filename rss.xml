@@ -4,8 +4,15 @@
         <description><![CDATA[The future is amazing!]]></description>
         <link>https://thegrid.ai/forced-foresight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 16:57:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2016 00:13:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/forced-foresight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[This Bot Tweets a Totally Fantastical Map Every Hour]]></title>
+            <description><![CDATA[<article><h1>This Bot Tweets a Totally Fantastical Map Every Hour</h1><p>Sij Big doesn't exist, but I can picture it. Judging from the map, this coastal nation boasts a dense, old-growth rainforest and a lush island where fishermen dive for abalone. The weather is cool and damp, but the whale watching is spectacular. The Twitterbot @unchartedatlas prompted this daydream.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/92ca83f9c06dfbf9620844237cc8f3ee/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2FMap4-1200x630.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/08/bot-tweets-totally-fantastical-map-every-hour</link>
+            <guid isPermaLink="false">15e18d33-da34-43f8-8ad3-fb3f94d542de</guid>
+            <pubDate>Thu, 18 Aug 2016 00:13:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Intel's new virtual reality headset doesn't tether you to a computer]]></title>
             <description><![CDATA[<article><h1>Intel's new virtual reality headset doesn't tether you to a computer</h1><p>The companies that brought the world the PC boom have a plan to trigger a similar explosion in virtual-reality hardware. Intel and Microsoft announced Tuesday that they are working together to help computer manufacturers get into the business of making stand-alone VR headsets.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f702f71d0ff7b91e208cadfae0af99c/noop.png?input=http%3A%2F%2Fd267cvn3rvuq91.cloudfront.net%2Fi%2Fimages%2Fintel2x1000.png%3Fcx%3D0%26cy%3D0%26cw%3D999%26ch%3D561%26sw%3D1200"></article>]]></description>
@@ -42,17 +49,17 @@
             <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
-            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
-            <guid isPermaLink="false">57b5014c-4c8b-4cd6-904b-0c32d0871c09</guid>
-            <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Google May Have Found a Way to Make the Real-World Web Work]]></title>
             <description><![CDATA[<article><h1>Google May Have Found a Way to Make the Real-World Web Work</h1><p>Remember beacons? Honestly, there's not much reason you would. Hailed for years by Apple, Google, and beyond as one of the next big things in tech-for marketers, at least-the glorious beacon future has yet to arrive in the present. They may get a little closer, however, now that Google has solved one of their major issues.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60f00415e118224ecabc9f288eafe337a9d94455.jpg"></article>]]></description>
             <link>http://www.wired.com/2016/04/google-beacon-security-eddystone/</link>
             <guid isPermaLink="false">f69b15b0-2535-4abf-bdb2-888ec1e846b8</guid>
+            <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New SpaceX landing photos make you feel like the rocket is coming down on top of you]]></title>
+            <description><![CDATA[<article><h1>New SpaceX landing photos make you feel like the rocket is coming down on top of you</h1><p>Up until now, we've really only seen SpaceX's rocket landing in the middle of the ocean from afar. Chase planes near the drone ship provided a spectacular view of the milestone event, but now, S...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aaef34df6ca9a285c5bdf2adaf9b1abfcc018b79.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/12/11415518/spacex-rocket-landing-close-up-photos-falcon-9</link>
+            <guid isPermaLink="false">57b5014c-4c8b-4cd6-904b-0c32d0871c09</guid>
             <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
         </item>
         <item>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What it's like to ride in the Tesla Model 3</h1><p>HAWTHORNE, California - I've had a terrible flu all week. My body aches, my head is pounding, and my throat feels like it might fall out of my neck. Right now, though, I'm riding in the Tesla Model 3, one of the most hotly anticipated cars in the world...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7072e2c8eecfad7b01c2532650be669c8647d676.jpg"></article>]]></description>
             <link>http://mashable.com/2016/04/01/tesla-model-3-first-ride/#GmuWjVf0GZqo</link>
             <guid isPermaLink="false">11c1a3c9-f017-4fec-9c1e-3422e5e17ec1</guid>
-            <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">6389f9fc-fd73-4b7f-a5f8-ba8b9efd7734</guid>
             <pubDate>Tue, 16 Aug 2016 18:28:14 GMT</pubDate>
         </item>
     </channel>
